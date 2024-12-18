@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.8)  18 DEC 2024 07:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.8)  18 DEC 2024 12:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -103,10 +103,6 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \IEEEPARstartletwidth=\dimen164
 \c@IEEEbiography=\count276
 \@IEEEtranrubishbin=\box53
-) (C:\Program Files\MiKTeX\tex/latex/cite\cite.sty
-LaTeX Info: Redefining \cite on input line 302.
-LaTeX Info: Redefining \nocite on input line 332.
-Package: cite 2015/02/27  v 5.5
 ) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2024/11/05 v2.17t AMS math features
 \@mathmargin=\skip52
@@ -270,7 +266,55 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 )) (sections/introduction.tex) (sections/Providing_Healthcare_in_a_Capitalist_System.tex)
 
-(sections/Providing_Healthcare_in_a_Socialist_System.tex) (subsections/Examples_for_Captialism_and_Socialsim.tex) (sections/Islamic_Economics.tex) (subsections/Healthcare_within_Islamic_Economics.tex) (subsections/Filling_the_Gaps.tex) (subsections/Islamic_Examples.tex) (sections/Islamic_Issues.tex) (sections/Conclusion.tex)
+(sections/Providing_Healthcare_in_a_Socialist_System.tex) (sections/Capitalism_And_Socialism_Pros.tex
+
+[1{C:/Users/moham/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}
+
+
+]) (sections/Capitalism_and_Socialism_Cons.tex) (sections/Islamic_Economics.tex
+Underfull \vbox (badness 1688) has occurred while \output is active []
+
+
+
+) (sections/Islamic_Healthcare_System.tex)
+
+[2] (sections/Islamic_Issues.tex)
+
+(sections/Conclusion.tex)
+Overfull \hbox (5.27779pt too wide) in paragraph at lines 62--63
+[]\OT1/ptm/m/n/10 [1] https://academic.oup.com/book/41906/chapter/354764756 
+ []
+
+
+Overfull \hbox (81.96622pt too wide) in paragraph at lines 65--66
+[]\OT1/ptm/m/n/10 [2] https://socialistregister.com/index.php/srv/article/download/6761/3914/11141 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+[]\OT1/ptm/m/n/10 [3] https://www.thalesgroup.com/en/markets/digital-
+ []
+
+
+Overfull \hbox (5.4769pt too wide) in paragraph at lines 74--75
+[]\OT1/ptm/m/n/10 [5] https://www.emerald.com/insight/content/doi/10.1108/ies-
+ []
+
+
+Overfull \hbox (25.07646pt too wide) in paragraph at lines 77--78
+[]\OT1/ptm/m/n/10 [6] https://www.isdb.org/sites/default/files/media/documents/2020-
+ []
+
+
+Overfull \hbox (9.36705pt too wide) in paragraph at lines 80--81
+[]\OT1/ptm/m/n/10 [7] https://www.emerald.com/insight/content/doi/10.1108/IES-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+\OT1/ptm/m/n/10 09-2021-0034/full/pdf?title=issues-and-challenges-of-waqf-in-
+ []
+
 No file main.bbl.
 
 ** Conference Paper **
@@ -285,27 +329,24 @@ Before submitting the final camera ready copy, remember to:
 
 
 
-[1{C:/Users/moham/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}
-
-
-] (main.aux)
+[3] (main.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4182 strings out of 473682
- 67599 string characters out of 5729115
- 467028 words of memory out of 5000000
- 27218 multiletter control sequences out of 15000+600000
- 587436 words of font info for 84 fonts, out of 8000000 for 9000
+ 4074 strings out of 473682
+ 65690 string characters out of 5729115
+ 473090 words of memory out of 5000000
+ 27119 multiletter control sequences out of 15000+600000
+ 586300 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,8n,65p,311b,259s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (1 page, 57389 bytes).
+ 57i,8n,65p,1182b,259s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
+Output written on main.pdf (3 pages, 58479 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
+ 28 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
